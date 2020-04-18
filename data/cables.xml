@@ -118,6 +118,41 @@
 		<transponder frequency="706000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="714000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 	</cable>
+	<cable name="Kabel Deutschland (2020Mar29)" satfeed="true" flags="9">
+		<transponder frequency="442000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="370000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="386000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="122000000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
+		<transponder frequency="458000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="450000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="562000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="410000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="338000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="330000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="474000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="418000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="546000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="402000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="610000000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
+		<transponder frequency="466000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="538000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="394000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="570000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="346000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="426000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="498000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="354000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="578000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="482000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="490000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="586000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="434000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="362000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="378000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="554000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="530000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="522000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+	</cable>
 	<cable name="Kabel Deutschland (626/Q64)" satfeed="true" flags="9">
 		<transponder frequency="73000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="113000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
